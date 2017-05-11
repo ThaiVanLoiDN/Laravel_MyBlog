@@ -1,8 +1,6 @@
 # Laravel MyBlog
 MyBlog - Project PHP by Laravel Framework 5.4
 
-# Installation
-
 ## To run this demo
 
 1. Clone or download this repo.
